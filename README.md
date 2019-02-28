@@ -1,1 +1,1 @@
-# Generates a heat map for bathymetry datas
+# Generates a heat map for bathymetry data.
