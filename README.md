@@ -1,3 +1,1 @@
-# R
-
-## Projects using R
+# Generates a heat map for bathymetry datas
