@@ -10,4 +10,4 @@
 ![alt text](https://github.com/aldipiroli/HeatMap_Generator_Bathymetry/blob/master/img/3.png)
 
 #### Finally a color scale is applied on the specific polygon, rappresenting the collected data.
-![alt text](https://github.com/aldipiroli/HeatMap_Generator_Bathymetry/blob/master/img/3.png)
+![alt text](https://github.com/aldipiroli/HeatMap_Generator_Bathymetry/blob/master/img/4.png)
