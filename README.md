@@ -7,4 +7,4 @@
 ![alt text](https://github.com/aldipiroli/HeatMap_Generator_Bathymetry/blob/master/img/1.png)
 
 #### In order to create a heat map, a clustering polygons algorithm is applied. 
-![alt text](https://github.com/aldipiroli/HeatMap_Generator_Bathymetry/blob/master/img/2.png)
+![alt text](https://github.com/aldipiroli/HeatMap_Generator_Bathymetry/blob/master/img/3.png)
