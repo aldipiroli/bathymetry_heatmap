@@ -1,4 +1,5 @@
 # Generates a heat map for bathymetry data.
+Part of my bachelor thesis project. 
 
 #### The data is gathered with a marine drone equipped with sensors and a GPS. 
 ![alt text](https://github.com/aldipiroli/HeatMap_Generator_Bathymetry/blob/master/img/1.png)
